@@ -20,33 +20,33 @@ div{
 }
 
 .bg{
-    background-color: gold;
+    background-color: rgb(206, 184, 63);
 }
 .bg1{
-    background-color: gold;
+    background-color: rgb(197, 171, 25);
 }
 
 
 .HEAD{
     position: absolute;
-    top: 0px;
-    right: 0px;
-    padding: 2px;
+    top: 2px;
+    right: 2px;
+    padding: 4px;
     padding-left: 10px;
     padding-right: 10px;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
 }
 .a{
-    background-color:  orangered;;
+    background-color:  rgb(119, 41, 13);;
 }
 
 .b{
-    background-color:  green;
+    background-color:  rgb(17, 107, 17);
 }
 
 .c{
-    background-color: red;
+    background-color: rgb(88, 11, 11);
 }
 
 p{
@@ -73,8 +73,8 @@ p{
 @media (max-width:767px){
 
     .column{
-        width: 90%;
-        margin-left: 5%;
+        width: 85%;
+        margin-left: 10%;
         
        
     }
